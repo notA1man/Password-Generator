@@ -1,0 +1,1 @@
+So this program basically generates randomized password using user given picture. The logo is downloaded from the internet btw :p
